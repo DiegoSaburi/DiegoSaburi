@@ -4,9 +4,9 @@
 ## I'm a enthusiastic student and learner!
 
 - 🔭 I’m currently working at [TITAN][website]!
-- 🌱 I’m currently learning Data Science (with Python)
+- 🌱 I’m looking to work with Quality Assurance
 - 👯 I’m looking to collaborate with Open source
-- 🥅 2021 Goals: Learn Artificial Inteligence
+- 🥅 2021 Goals: Learn API testing
 - ⚡ Fun fact: I'm the most beautiful man in the world :)
 
 ### Connect with me:
