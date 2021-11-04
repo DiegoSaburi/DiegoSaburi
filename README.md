@@ -4,9 +4,8 @@
 ## I'm a enthusiastic student and learner!
 
 - 🔭 I’m currently working at [TITAN][website]!
-- 🌱 I’m looking to work with Quality Assurance
-- 👯 I’m looking to collaborate with Open source
-- 🥅 2021 Goals: Learn API testing
+- 🌱 I’m looking to work with back-end development
+- 🥅 2021 Goals: Learn Java (Junit, spring framework, maven)
 - ⚡ Fun fact: I'm the most beautiful man in the world :)
 
 ### Connect with me:
@@ -15,10 +14,8 @@
 <br />  
 
 ### Languages:
-
+[![java](https://img.shields.io/static/v1?label=&message=Java&color=orange&style=flat&logo=Java)](https://github.com/DiegoSaburi)
 [![python](https://img.shields.io/static/v1?label=&message=Python&color=0033BE&style=flat&logo=Python)](https://github.com/DiegoSaburi)
-[![C](https://img.shields.io/badge/-0E0E0F?&style=flat&logo=C)](https://github.com/DiegoSaburi)
-[![C++](https://img.shields.io/badge/-C++-0E0E0F?style=flat&logo=C++)](https://github.com/DiegoSaburi)
 <br />
 
 ### Libraries & frameworks:
@@ -31,14 +28,16 @@
 <img align="left" alt="Github" src="http://img.shields.io/static/v1?label=&message=Github&style=flat&color=gray&logo=github"/>
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Jupyter" src="http://img.shields.io/static/v1?label=&message=Jupyter&style=flat&color=white&logo=jupyter"/>
+<img align="left" alt="Postman" src="https://img.shields.io/static/v1?label=&message=postman&style=flat&color=white&logo=postman"/>
 <br />
 <br />
 
 ---
 ### Github Stats
-<img align="left" alt="Saburi's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DiegoSaburi&show_icons=true&hide_border=true&count_private=true&theme=synthwave" />
+[![Saburi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoSaburi&show_icons=true&theme=synthwave)](https://github.com/DiegoSaburi/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSaburi&theme=synthwave)](https://github.com/DiegoSaburi/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSaburi&theme=synthwave&layout=compact)](https://github.com/DiegoSaburi/github-readme-stats)
 
 
 [linkedin]: https://www.linkedin.com/in/diego-saburi/
