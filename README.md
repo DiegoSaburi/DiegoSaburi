@@ -3,9 +3,9 @@
 
 ## I'm a enthusiastic student and learner!
 
-- 🔭 I’m currently working at [TITAN][website]!
-- 🌱 I’m looking to work with back-end development
-- 🥅 2021 Goals: Learn Java (Junit, spring framework, maven)
+- 🔭 I’m currently working at [EISA][website]!
+- 🌱 I’m looking to work with QA automation
+- 🥅 2022 Goals: Learn More about tests engineering and QA automation (Swagger, open api)
 - ⚡ Fun fact: I'm the most beautiful man in the world :)
 
 ### Connect with me:
@@ -15,11 +15,12 @@
 
 ### Languages:
 [![java](https://img.shields.io/static/v1?label=&message=Java&color=orange&style=flat&logo=Java)](https://github.com/DiegoSaburi)
+[![ruby](https://img.shields.io/static/v1?label=&message=Ruby&color=red&style=flat&logo=Ruby)](https://github.com/DiegoSaburi)
 [![python](https://img.shields.io/static/v1?label=&message=Python&color=0033BE&style=flat&logo=Python)](https://github.com/DiegoSaburi)
 <br />
 
 ### Libraries & frameworks:
-[![Pandas](https://img.shields.io/static/v1?label=&message=Pandas&style=flat&logo=pandas)](https://github.com/DiegoSaburi)
+[![cucumber](https://img.shields.io/static/v1?label=&message=cucumber&color=white&style=flat&logo=cucumber)](https://github.com/DiegoSaburi)
 
 ### Tools:
 <img align="left" alt="Selenium" width="26px" src="https://seeklogo.com/images/S/selenium-logo-DB9103D7CF-seeklogo.com.png"/>
@@ -41,5 +42,5 @@
 
 
 [linkedin]: https://www.linkedin.com/in/diego-saburi/
-[website]:https://www.titanci.com.br/
+[website]:https://www.linkedin.com/company/eisa-tecnologia/
 [github]: https://github.com/DiegoSaburi
