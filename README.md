@@ -3,7 +3,6 @@
 
 ## I'm a enthusiastic student and learner!
 
-- 🔭 I’m currently working at [EISA][website]!
 - 🌱 I’m looking to work with QA automation
 - 🥅 2022 Goals: Learn More about tests engineering and QA automation (Swagger, open api)
 - ⚡ Fun fact: I'm the most beautiful man in the world :)
